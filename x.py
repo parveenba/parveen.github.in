@@ -1,3 +1,3 @@
-x=4
-y=3
-print(x*y)
+a=5
+b=3
+print(a+b)
